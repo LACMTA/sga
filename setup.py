@@ -7,7 +7,7 @@ setup(
     platforms='any',
     packages=['sga'],
     install_requires=["pyga"],
-    scripts=['sga/bin/run_ga_agent.py'],
+    scripts=[],
     url="https://github.com/dantezhu/sga",
     license="BSD",
     author="dantezhu",
