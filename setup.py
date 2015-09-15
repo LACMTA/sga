@@ -8,7 +8,7 @@ setup(
     packages=['sga'],
     install_requires=["pyga"],
     scripts=[],
-    url="https://github.com/dantezhu/sga",
+    url="https://github.com/LACMTA/sga",
     license="BSD",
     author="dantezhu",
     author_email="zny2008@gmail.com",
